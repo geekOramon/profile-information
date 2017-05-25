@@ -3,6 +3,6 @@ spring:
       name: profile-service-config
   cloud:
     config:
-     uri: http://profile-service-config-developer:kaioken@localhost:8880
+     uri: http://profile-service-config-developer:kaioken@localhost:8888
      profile: dev
      failFast: true
