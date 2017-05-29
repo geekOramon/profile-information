@@ -30,12 +30,4 @@ public class UserController {
         return user;
 
     }
-
-//    @GetMapping(path = "/{email}")
-//    @ResponseBody
-//    public String getUser(@PathVariable String email){
-//        userRepository.
-//    }
-
-
 }
